@@ -1,3 +1,3 @@
 package stringutil
 
-var myName = "Anthony"
+var MyName = "Anthony"
