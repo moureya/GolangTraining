@@ -1,11 +1,11 @@
 package main
 
 import (
-  "fmt"
-  "github.com/GoesToEleven/GolangTraining/02_package/stringutil"
+	"02_packages/stringutil"
+	"fmt"
 )
 
 func main() {
-  fmt.Println(stringutil.Reverse("!oG , olleH"))
-  fmt.Println(stringutil.MyName)
+	fmt.Println(stringutil.Reverse("!oG , olleH"))
+	fmt.Println(stringutil.MyName)
 }
